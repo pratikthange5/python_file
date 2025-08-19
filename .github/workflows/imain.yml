@@ -14,7 +14,7 @@ on:
 
          steps:
           -name:Show current working directory
-           run: pwd
+           run:pwd
            
           -name:List files in the directory
            run: ls-la
